@@ -55,7 +55,7 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 7월 5주차 | 07-24 ~ 07-30 | 백 트래킹 | <p align=left> 1️⃣ [감시](https://www.acmicpc.net/problem/1197)  | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br> |
+| 7월 5주차 | 07-24 ~ 07-30 | 백 트래킹 | <p align=left> 1️⃣ [감시](https://www.acmicpc.net/problem/15683)  | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br> |
 
 
 <br/>
